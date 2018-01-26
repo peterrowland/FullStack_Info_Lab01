@@ -1,0 +1,9 @@
+1. Change Directory: cd <directoryName>
+2. Create Directory: mkdir <directoryName>
+3. Rename Directory: mv <oldname> <newname>
+4. List contents: ls <directoryName>
+5. Move File: mv <filename> </path/to/location>
+6. Copy File: cp <filename> </path/to/location>
+7. Search: grep <string> <filename>
+8. Access Shell: ssh user@servername
+9. remove directory: rmdir <directory> or rm -rf <directory>
